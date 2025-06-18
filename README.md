@@ -7,10 +7,10 @@ The goal is to create an **affordable and accessible AgriTech solution** for hom
 
 # Features
 
-- 🧪 Live sensor monitoring (moisture, light, temperature/humidity)
-- 💻 Open-source web interface (planned)
-- 🧠 Future integration with AI for prediction/alerts
-- 🌎 Educational and scalable model for food justice
+- Live sensor monitoring (moisture, light, temperature/humidity)
+- Open-source web interface (planned)
+- Future integration with AI for prediction/alerts
+- Educational and scalable model for food justice
 
 ---
 
